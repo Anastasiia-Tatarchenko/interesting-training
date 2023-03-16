@@ -1,0 +1,29 @@
+.footer {
+	text-align: center;
+	color: #fdfdfd;
+	font-size: 14px;
+	font-family: "Montserrat", sans-serif;
+	margin-top: 16px;
+}
+
+footer .footer-link {
+	text-decoration: none;
+	color: #8b8e93;
+}
+
+footer .footer-link:hover {
+	color: #6cd2f0;
+}
+
+.font-ligther {
+	font-weight: lighter;
+}
+.container {
+	border-radius: var(--main-border-radius);
+	padding: 16px;
+	margin: 0 auto;
+	background-color: #222831;
+	width: 85%;
+	max-width: 675px;
+	min-height: 300px;
+}
